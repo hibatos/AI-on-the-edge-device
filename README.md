@@ -86,7 +86,7 @@ In other cases you can contact the developer via email: <img src="https://raw.gi
 
 **ATTENTION:  The new ESP32 camera hardware driver is much more stable on newer OV2640 versions (no or much less reboots) but seems to be not fully compatible with older versions.**
 
-* If you have problem with stalled systems you can try the following
+* If you have a problem with stalled systems you can try the following
   - Update the parameter `ImageQuality` to `12` instead of current value `5` (manually in the `config.ini`)
 
   - If this is not helping, you might need to update your hardware or stay with version 9.2
